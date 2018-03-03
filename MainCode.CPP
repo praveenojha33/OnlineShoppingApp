@@ -737,9 +737,7 @@ case '1':
                             cout<<"\n\n\t\t******ONLINE PURCHASE SYSTEM******";
                             cout<<"\n\n\t\t______A PROJECT BY:-______________";
                             cout<<"\n\n\t\t_NAME_                          _ROLL NO._";
-                            cout<<"\n\n\t\t01.PRATYAKSHA SRIVASTAVA         2016021061";
-                            cout<<"\n\n\t\t02.PRAVEEN OJHA                  2016021062";
-                            cout<<"\n\n\t\t03.PRAVEEN PANDEY                2016021063";
+                            cout<<"\n\n\t\t01.PRAVEEN OJHA                  2016021062";
                             cout<<"\n\n\t\tPress any key to return\n";
                             getche();
                             goto M;
